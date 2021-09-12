@@ -1,0 +1,9 @@
+My was a fresh graduate study of the Pembangunan Jaya university information system 2022
+- Photoshop
+- Ilustrator
+- Vue JS
+- Node JS
+- React
+- Angular JS
+- Laravel
+- Codeigniter
