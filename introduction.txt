@@ -7,3 +7,5 @@ My was a fresh graduate study of the Pembangunan Jaya university information sys
 - Angular JS
 - Laravel
 - Codeigniter
+- Figma
+- Data Analyst
